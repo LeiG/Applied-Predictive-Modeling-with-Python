@@ -4,7 +4,7 @@ Applied-Predictive-Modeling
 This is the study notes of [Applied Predictive Modeling (Kuhn and Johnson (2013))](http://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?ie=UTF8&qid=1415171098&sr=8-1&keywords=applied+predictive+modeling) using IPython notebook. This text, written in R, is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. The notebook reproduces book examples and provides exercise solutions for interested readers who wants to study the book use Python.
 
 ## Table of Contents
-- \n
+- ** **
     - Ch.0 Tutorial setup
     - Ch.1 Introduction
 - **Part I General Strategies**
