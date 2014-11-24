@@ -5,7 +5,6 @@ This is the study notes of [Applied Predictive Modeling (Kuhn and Johnson (2013)
 
 ## Table of Contents
 
-- [Ch.0 Tutorial setup](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%200.ipynb)
 - [Ch.1 Introduction](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%201.ipynb)
 
 **Part I General Strategies**
