@@ -75,7 +75,7 @@ def download_pack(datasets_folder):
 
 def get_datafiles(datasets_folder):
     '''extract data files from the downloaded package'''
-    print "Extract .RData files from the package..."
+    print "Extract .RData files from the packages..."
 
     # from APM
     src_path = os.path.join(datasets_folder, APM_NAME, 'data/.')
@@ -122,7 +122,7 @@ def get_datafiles(datasets_folder):
 
 def convert_datafiles(datasets_folder):
     '''convert .RData files to .csv files and clean up'''
-    print "Convert .RData to .csv and clean up .RData files..."
+    print "Convert .RData to .csv and clean up files..."
 
     for root, dirs, files in os.walk(datasets_folder):
         for name in files:
