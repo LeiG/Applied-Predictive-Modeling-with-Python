@@ -17,13 +17,12 @@ This is the study notes of [Applied Predictive Modeling (Kuhn and Johnson (2013)
 - [Ch.6 Linear regression and its cousins](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%206.ipynb)
 - [Ch.7 Nonlinear regression models](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%207.ipynb)
 - [Ch.8 Regression trees and rule-based models](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%208.ipynb)
-
-<!---
-- [Ch.9 A summary of solubility models](http://nbviewer.ipython.org/github/leig/Applied-Predictive-Modeling-with-Python/blob/master/notebooks/Chapter%209.ipynb)
-- [Ch.10 Case study: compressive strength of concrete]
+- Ch.9 A summary of solubility models
+- Ch.10 Case study: compressive strength of concrete
 
 **Part III Classification Models**
 - [Ch.11 Measuring performance in classification models]
+<!---
 - [Ch.12 Discriminant analysis and other linear classification models]
 - [Ch.13 Nonlinear classification models]
 - [Ch.14 Classification trees and rule-based models]
