@@ -18,7 +18,7 @@ APM_URL = ('http://cran.r-project.org/src/contrib/'
 APM_ARCHIVE = 'AppliedPredictiveModeling_1.1-6.tar.gz'
 APM_NAME = 'AppliedPredictiveModeling'
 
-CRT_URL = ('http://cran.r-project.org/src/contrib/caret_6.0-37.tar.gz')
+CRT_URL = ('https://cran.r-project.org/src/contrib/Archive/caret/caret_6.0-37.tar.gz')
 CRT_ARCHIVE = 'caret_6.0-37.tar.gz'
 CRT_NAME = 'Caret'
 
